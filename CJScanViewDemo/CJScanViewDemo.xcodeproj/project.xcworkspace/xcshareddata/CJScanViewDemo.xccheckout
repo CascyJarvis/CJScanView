@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>194B8EB0-9350-4456-BA3F-3CB22B984A09</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CJScanViewDemo</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</key>
 		<string>https://github.com/CascyJarvis/CJScanView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CJScanViewDemo/CJScanViewDemo.xcodeproj</string>
+	<string>CJScanViewDemo/CJScanViewDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</key>
