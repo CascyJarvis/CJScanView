@@ -8,8 +8,8 @@
 
 #import "ScanViewController.h"
 #import "MaskView.h"
-#import "UIImage+Bundle.h"
-#import "NSBundle+Custom.h"
+//#import "UIImage+Bundle.h"
+//#import "NSBundle+Custom.h"
 static const char *kScanQRCodeQueueName = "ScanQRCodeQueue";
 static const float textTopMargin = 30;
 static const float buttonTopMargin = 90;
@@ -48,8 +48,6 @@ static const float buttonTopMargin = 90;
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self initBundleImage];
-    
     self.navigationController.navigationBarHidden = NO;
     _upOrDown = YES;
     
@@ -63,12 +61,7 @@ static const float buttonTopMargin = 90;
     // Dispose of any resources that can be recreated.
 }
 
-#pragma mark - Bundle Resource
-- (void)initBundleImage
-{
-//    [_scanLine setImage:[UIImage imageNamedFromCustomBundle:@"scan_line.png"]];
-//    [_cancelButton setImage:[UIImage imageNamedFromCustomBundle:@"cancel.png"] forState:UIControlStateNormal];
-}
+
 #pragma mark - 动画代码
 - (void)setupAnimation
 {

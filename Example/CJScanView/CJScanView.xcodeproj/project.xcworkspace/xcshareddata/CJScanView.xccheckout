@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2D9DC64C-1C4D-457A-B92E-25A177C0F702</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</key>
+		<string>https://github.com/CascyJarvis/CJScanView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/CJScanView/CJScanView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CascyJarvis/CJScanView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4F92D45F47B8E48D4EC079E665C122CD07CE00D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CJScanView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
